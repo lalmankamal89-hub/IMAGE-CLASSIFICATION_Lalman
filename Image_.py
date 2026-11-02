@@ -123,7 +123,7 @@
       "source": [
         "!pip install streamlit"
       ],
-      "execution_count": null,
+      "execution_count": none,
       "outputs": [
         {
           "output_type": "stream",
@@ -171,7 +171,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": null,
+      "execution_count": none,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
