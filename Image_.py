@@ -39,7 +39,7 @@
         "id": "JOrknuDUyimv",
         "outputId": "f24d2485-72c2-4a8d-8dda-0d356352a5bb"
       },
-      "execution_count": none,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "stream",
@@ -123,7 +123,7 @@
       "source": [
         "!pip install streamlit"
       ],
-      "execution_count": none,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "stream",
@@ -171,7 +171,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": none,
+      "execution_count": None,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
